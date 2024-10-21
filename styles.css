@@ -42,7 +42,7 @@ section {
 section#home {
     background-image: url('background.jpg'); /* Image de fond si désirée */
     background-size: cover;
-    color: white;
+    color: black;
 }
 
 h1, h2 {
